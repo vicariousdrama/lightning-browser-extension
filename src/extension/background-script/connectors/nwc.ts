@@ -76,7 +76,6 @@ class NWCConnector implements Connector {
       unpaid: false,
       limit: 50, // restricted by relay max event payload size
     });
-    console.info(listTransactionsResponse);
 
     const transactions: ConnectorTransaction[] =
       listTransactionsResponse.transactions.map(
