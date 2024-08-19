@@ -1077,6 +1077,22 @@
           "title": "app data",
           "description": "Sign application-specific data"
         },
+        "30388": {
+          "title": "slide set",
+          "description": "Create or update slide set"
+        },
+        "31388": {
+          "title": "link set",
+          "description": "Create or update link set"
+        },
+        "32388": {
+          "title": "room favorites",
+          "description": "Create or update room favorites"
+        },
+        "33388": {
+          "title": "play list",
+          "description": "Create or update play list"
+        },        
         "10000135": {
           "title": "Upload Chunk",
           "description": "Uploads data in chunks"
